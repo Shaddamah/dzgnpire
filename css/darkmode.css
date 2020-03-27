@@ -1,0 +1,28 @@
+.dark-mode{
+    background-color: rgb(17, 17, 17) !important;
+}
+body.dark-mode > header > nav{
+    background-color: rgb(37, 37, 37) !important;
+}
+body.dark-mode > header > nav > .darkmode-switch{
+    color: rgb(230, 230, 230) !important;
+    background-color: rgb(37, 37, 37) !important;
+}
+body.dark-mode > header > nav > .link > a{
+    color: rgb(230, 230, 230) !important;
+}
+body.dark-mode > aside > .card{
+    color: rgb(230, 230, 230);
+    background-color: rgb(37, 37, 37) !important;
+}
+body.dark-mode > main > .search > input{
+    color: rgb(230, 230, 230);
+    background-color: rgb(37, 37, 37) !important;
+}
+body.dark-mode > main > #content > article{
+    color: rgb(230, 230, 230);
+    background-color: rgb(37, 37, 37) !important;
+}
+body.dark-mode > main > #content > article > .txt > img{
+    filter: invert(85%);
+}
