@@ -12,6 +12,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-I didn't own any vector illustration. All vector illustraion are from [Freepik](https://www.freepik.com/)
-
 [MIT](https://choosealicense.com/licenses/mit/)
