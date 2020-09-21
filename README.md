@@ -5,7 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shaddamah/dzgnpire)
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fshaddamah.github.io%2Fdzgnpire%2F)
 
-Dzgnpire Dicoding is a static website built as a submission for Dicoding's "Belajar Pemrograman HTML Dasar" course. Check the live [here](https://shaddamah.github.io/dzgnpire/)
+Dzgnpire is a static website built as a submission for Dicoding's "Belajar Pemrograman HTML Dasar" course. Check the live [here](https://shaddamah.github.io/dzgnpire/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
